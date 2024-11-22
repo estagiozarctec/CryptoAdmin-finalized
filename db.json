@@ -1,0 +1,471 @@
+{
+  "buyOrder": [
+    {
+      "id": 1,
+      "price": 86.2,
+      "amount": 0.35,
+      "total": "$126.26"
+    },
+    {
+      "id": 2,
+      "price": 93.9,
+      "amount": 0.55,
+      "total": "$212.56"
+    },
+    {
+      "id": 3,
+      "price": 84.2,
+      "amount": 0.25,
+      "total": "$252.58"
+    },
+    {
+      "id": 4,
+      "price": 91.6,
+      "amount": 0.75,
+      "total": "$46.92"
+    },
+    {
+      "id": 5,
+      "price": 83.9,
+      "amount": 0.18,
+      "total": "$237.31"
+    },
+    {
+      "id": 6,
+      "price": 82.3,
+      "amount": 0.15,
+      "total": "$134.12"
+    },
+    {
+      "id": 7,
+      "price": 92.6,
+      "amount": 0.21,
+      "total": "$123.27"
+    },
+    {
+      "id": 8,
+      "price": 94.2,
+      "amount": 0.18,
+      "total": "$129.26"
+    }
+  ],
+  "cardInfos": [
+    {
+      "id": 1,
+      "totalAmount": "$673,412.66",
+      "lastMonth": "$563,443",
+      "valid": "08/21",
+      "cardHolder": "Thomas Aldox",
+      "cardCode": "8765 4321 5678 1234",
+      "cardName": "Main Balance",
+      "totalLimit": "100,000",
+      "availabeLimit": "20,000",
+      "bankName": "ABC Center Bank"
+    }
+  ],
+  "coinHolding": [
+    {
+      "id": 1,
+      "amount": "$65,123",
+      "coin": "BTC"
+    },
+    {
+      "id": 2,
+      "amount": "$2,551",
+      "coin": "ETH"
+    },
+    {
+      "id": 3,
+      "amount": "$0,55",
+      "coin": "RPL"
+    }
+  ],
+  "cryptoAmount": [
+    {
+      "id": 1,
+      "coin": "bitcoin",
+      "amount": "65,123",
+      "percentage": "4%",
+      "days": 30,
+      "dashboardGraphs": "/public/graphsDashboard/01.svg"
+    },
+    {
+      "id": 2,
+      "coin": "ethereum",
+      "amount": "2,551",
+      "percentage": "4%",
+      "days": 30,
+      "dashboardGraphs": "/public/graphsDashboard/02.svg"
+    },
+    {
+      "id": 3,
+      "coin": "ripple",
+      "amount": "0,55",
+      "percentage": "4%",
+      "days": 30,
+      "dashboardGraphs": "/public/graphsDashboard/03.svg"
+    },
+    {
+      "id": 4,
+      "coin": "litecoin",
+      "amount": "65,123",
+      "percentage": "4%",
+      "days": 30,
+      "dashboardGraphs": "/public/graphsDashboard/04.svg"
+    }
+  ],
+  "marketCapital": [
+    {
+      "id": 1,
+      "rank": "#1",
+      "coin": "bitcoin",
+      "lastPrice": "$11,911.48",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-01.svg"
+    },
+    {
+      "id": 2,
+      "rank": "#2",
+      "coin": "ethereum",
+      "lastPrice": "$459.24",
+      "change": "2,54%",
+      "volume": "$634,353,775,631",
+      "graph": "/public/graphs/graph-02.svg"
+    },
+    {
+      "id": 3,
+      "rank": "#3",
+      "coin": "ripple",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-03.svg"
+    },
+    {
+      "id": 4,
+      "rank": "#4",
+      "coin": "litecoin",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-04.svg"
+    },
+    {
+      "id": 5,
+      "rank": "#5",
+      "coin": "ethereum",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-05.svg"
+    },
+    {
+      "id": 6,
+      "rank": "#6",
+      "coin": "xrp",
+      "lastPrice": "$11,911.48",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-06.svg"
+    },
+    {
+      "id": 7,
+      "rank": "#7",
+      "coin": "chainlink",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-07.svg"
+    },
+    {
+      "id": 8,
+      "rank": "#8",
+      "coin": "bitcoincash",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-08.svg"
+    },
+    {
+      "id": 9,
+      "rank": "#9",
+      "coin": "ethereum",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-09.svg"
+    },
+    {
+      "id": 10,
+      "rank": "#10",
+      "coin": "tezos",
+      "lastPrice": "+$5,553",
+      "change": "2,54%",
+      "volume": "$220,083,007,631",
+      "graph": "/public/graphs/graph-10.svg"
+    }
+  ],
+  "recentActivities": [
+    {
+      "id": 1,
+      "transfer": "topup",
+      "date": "4/5/2020 06:24 AM",
+      "coin": "bitcoin",
+      "hour": "06:24:45 AM",
+      "amount": "+$5,553",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "transfer": "topup",
+      "date": "4/5/2020 06:24 AM",
+      "coin": "ethereum",
+      "hour": "08:12:13 AM",
+      "amount": "-$542",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "transfer": "withdraw",
+      "date": "4/5/2020 06:24 AM",
+      "coin": "ripple",
+      "hour": "08:12:13 AM",
+      "amount": "-$912",
+      "status": "canceled"
+    },
+    {
+      "id": 4,
+      "transfer": "withdraw",
+      "date": "4/5/2020 06:24 AM",
+      "coin": "litecoin",
+      "hour": "08:12:13 AM",
+      "amount": "+$7,762",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "transfer": "topup",
+      "date": "4/5/2020 06:24 AM",
+      "coin": "bitcoin",
+      "hour": "08:12:13 AM",
+      "amount": "+$5,553",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "transfer": "withdraw",
+      "date": "4/5/2020 06:24 AM",
+      "coin": "ripple",
+      "hour": "08:12:13 AM",
+      "amount": "-$912",
+      "status": "canceled"
+    }
+  ],
+  "recentContacts": [
+    {
+      "id": 1,
+      "name": "Samuel",
+      "at": "sam224",
+      "profile": "exemplo/imagem"
+    },
+    {
+      "id": 2,
+      "name": "Cindy",
+      "at": "cindyss",
+      "profile": "exemplo/imagem2"
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "at": "anna765",
+      "profile": "exemplo/imagem2"
+    },
+    {
+      "id": 4,
+      "name": "Martha",
+      "at": "anna765",
+      "profile": "exemplo/imagem2"
+    },
+    {
+      "id": 5,
+      "name": "Olivia",
+      "at": "anna765",
+      "profile": "exemplo/imagem2"
+    },
+    {
+      "id": 6,
+      "name": "Bella",
+      "at": "belazz",
+      "profile": "exemplo/imagem2"
+    },
+    {
+      "id": 7,
+      "name": "Franklin",
+      "at": "franklinjr",
+      "profile": "exemplo/imagem2"
+    }
+  ],
+  "sellOrder": [
+    {
+      "id": 1,
+      "price": 86.3,
+      "amount": 0.15,
+      "total": "$134.12"
+    },
+    {
+      "id": 2,
+      "price": 91.5,
+      "amount": 0.2,
+      "total": "$184.65"
+    },
+    {
+      "id": 3,
+      "price": 95.6,
+      "amount": 0.18,
+      "total": "$231.72"
+    },
+    {
+      "id": 4,
+      "price": 96.4,
+      "amount": 0.25,
+      "total": "$231.72"
+    },
+    {
+      "id": 5,
+      "price": 86.4,
+      "amount": 0.25,
+      "total": "$261.72"
+    },
+    {
+      "id": 6,
+      "price": 66.3,
+      "amount": 0.25,
+      "total": "$241.72"
+    },
+    {
+      "id": 7,
+      "price": 76.8,
+      "amount": 0.25,
+      "total": "$131.72"
+    },
+    {
+      "id": 8,
+      "price": 96.4,
+      "amount": 0.25,
+      "total": "$311.72"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "transactionId": "#12415346563475",
+      "date": "2/5/2020 06:24 AM",
+      "from": "Thomas",
+      "to": "Cindy",
+      "coin": "bitcoin",
+      "amount": "+$5,553",
+      "note": "Lorem ipsum dol..",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Cindy",
+      "coin": "bitcoin",
+      "amount": "+$3,443",
+      "note": "None",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Samuel",
+      "coin": "ripple",
+      "amount": "-$3,443",
+      "note": "Lorem ipsum dol..",
+      "status": "canceled"
+    },
+    {
+      "id": 4,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Lucyana",
+      "coin": "litecoin",
+      "amount": "+$943",
+      "note": "Lorem ipsum dol..",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Cindy",
+      "coin": "bitcoin",
+      "amount": "+$5,443",
+      "note": "Lorem ipsum dol..",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "David",
+      "coin": "ethereum",
+      "amount": "-$13,443",
+      "note": "None",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Samuel",
+      "coin": "ripple",
+      "amount": "-$443",
+      "note": "Lorem ipsum dol..",
+      "status": "canceled"
+    },
+    {
+      "id": 8,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Cindy",
+      "coin": "bitcoin",
+      "amount": "+$943",
+      "note": "Lorem ipsum dol..",
+      "status": "completed"
+    },
+    {
+      "id": 9,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "Cindy",
+      "coin": "bitcoin",
+      "amount": "+$5,553",
+      "note": "Lorem ipsum dol..",
+      "status": "completed"
+    },
+    {
+      "id": 10,
+      "transactionId": "#21346176543154",
+      "date": "2/5/2020 09:45 AM",
+      "from": "Thomas",
+      "to": "David",
+      "coin": "ethereum",
+      "amount": "-$12,768",
+      "note": "None",
+      "status": "pending"
+    }
+  ]
+}
